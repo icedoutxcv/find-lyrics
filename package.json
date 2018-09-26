@@ -1,6 +1,6 @@
 {
   "name": "find-lyrics",
-  "version": "0.9.4",
+  "version": "0.9.5",
   "preferGlobal": true,
   "author": "icedoutxcv",
   "bin": {
