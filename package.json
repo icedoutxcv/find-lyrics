@@ -1,0 +1,17 @@
+{
+  "name": "find-lyrics",
+  "version": "0.9.4",
+  "preferGlobal": true,
+  "author": "icedoutxcv",
+  "bin": {
+    "find-lyrics": "./app.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "commander": "^2.15.1",
+    "node-genius": "^1.1.0",
+    "request": "^2.86.0"
+  },
+  "license": "ISC",
+  "description": "Simple cli lyrics parser from genius using their API and cheerio"
+}
